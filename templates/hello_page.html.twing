@@ -1,0 +1,12 @@
+{%extends 'base.html.twig'%}
+
+{%block title%}home Page!{%endblock%}
+
+{%block content%}
+
+   <h1>First time with Symfony</h1>
+
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus egestas justo eget dolor vestibulum, ut vulputate dui tempor. Suspendisse viverra nec augue vel venenatis. Etiam sed ligula eget tellus fermentum ullamcorper. Morbi dapibus diam aliquet eros egestas aliquam. Ut non aliquam nisl, mattis sollicitudin magna. Vivamus elementum, sapien vitae auctor tincidunt, neque lacus pulvinar neque, luctus volutpat neque nibh a elit. Nulla condimentum, turpis quis venenatis malesuada, ipsum eros dictum magna, a elementum risus augue sit amet est. Phasellus ante mauris, congue et semper eu, lobortis eget nisi.</p>
+<p>Phasellus ex nisl, imperdiet at lacus id, sagittis scelerisque metus. Nullam id nulla vel diam placerat dictum at et sem. Donec vitae dapibus mi. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Integer lorem erat, ornare non dui eget, euismod hendrerit libero. Praesent et magna non lectus iaculis tristique a eget est. Nunc at vulputate metus. Maecenas fermentum ligula vel convallis facilisis. Aenean lorem eros, tristique vel arcu sit amet, aliquam posuere metus. Maecenas leo velit, suscipit vestibulum velit id, sagittis vulputate arcu. Duis molestie orci id lectus vulputate, et dignissim justo pellentesque. Curabitur dictum arcu eu felis volutpat, nec fermentum nisl placerat. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vestibulum mattis non augue vitae mattis. Sed eu dolor nec eros pretium pretium.</p>
+
+{%endblock%}
